@@ -1,0 +1,43 @@
+<resources>
+    <string name="Score"> Score</string>
+    <string name="text1"> A</string>
+    <string name="text2"> B</string>
+    <string name="text3"> C</string>
+    <string name="text4"> D</string>
+    <string name="text5"> E</string>
+    <string name="text6"> F</string>
+    <string name="text7"> G</string>
+    <string name="text8"> H</string>
+    <string name="text9"> I</string>
+    <string name="text10">J</string>
+    <string name="text11">K</string>
+    <string name="text12">L</string>
+    <string name="text13">M</string>
+    <string name="text14">N</string>
+    <string name="text15">O</string>
+    <string name="text16">P</string>
+    <string name="text17">Q</string>
+    <string name="text18">R</string>
+    <string name="text19">S</string>
+    <string name="text20">T</string>
+    <string name="text21">U</string>
+    <string name="text22">V</string>
+    <string name="text23">W</string>
+    <string name="text24">X</string>
+    <string name="text25">Y</string>
+    <string name="text26">Z</string>
+    <string name="text27">New Game</string>
+    <string name="HighScore">High Score </string>
+    <string name="PlayAgain">Play Again </string>
+    <string name="Play">Play </string>
+    <string name="HighScore2">High Score </string>
+    <string name="app_name">Spellbound</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
+
+
+
+
+

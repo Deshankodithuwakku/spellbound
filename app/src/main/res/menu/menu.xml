@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context = "com.example.spellbound.MainActivity"
+    >
+
+
+    <item
+        android:id="@+id/menuEasy"
+        android:orderInCategory="1"
+        android:title="Easy"
+        app:showAsAction="" />
+
+    <item
+        android:id="@+id/menuNormal"
+        android:orderInCategory="2"
+        android:title="Normal"
+        app:showAsAction="" />
+
+    <item
+        android:id="@+id/menuHard"
+        android:orderInCategory="3"
+        android:title="Hard"
+        app:showAsAction="" />
+
+    <item
+        android:id="@+id/menuRandom"
+        android:orderInCategory="4"
+        android:title="Random"
+        app:showAsAction="" />
+
+</menu>
